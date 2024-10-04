@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diensten Aanbod</title>
+    <meta name="description" content="Aanbod van diensten zoals webontwikkeling, SEO optimalisatie en grafisch ontwerp. Neem contact op voor meer informatie.">
+</head>
+<body>
+    <header>
+        <h1>Welkom bij mijn diensten</h1>
+        <nav>
+            <ul>
+                <li><a href="#diensten">Diensten</a></li>
+                <li><a href="#over-mij">Over Mij</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="diensten">
+        <h2>Diensten</h2>
+        <ul>
+            <li>Webontwikkeling</li>
+            <li>SEO Optimalisatie</li>
+            <li>Grafisch ontwerp</li>
+        </ul>
+    </section>
+
+    <section id="over-mij">
+        <h2>Over Mij</h2>
+        <p>Ik ben een gepassioneerde ontwikkelaar met ervaring in het bouwen van dynamische websites en het ontwerpen van mooie gebruikersinterfaces.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Neem contact met me op via <a href="mailto:info@voorbeeld.com">info@voorbeeld.com</a>.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mijn Bedrijf</p>
+    </footer>
+</body>
+</html>
